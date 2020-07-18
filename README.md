@@ -6,7 +6,7 @@ I'm a software engineer who is passionate about exploring new technologies.
 ## Find me around the web 🌎:
 - <a href="https://michaelradu.cf">Personal Website</a> 💼
 - Posting articles on <a href="https://medium.com/@miihairadu">Medium</a> 📹 ✍️
-- Publishing games on <a href="https://michaelradu.itch.io/">Itch.io</a> 🏓
+- Publishing games on <a href="https://michaelradu.itch.io/">Itch.io</a> 🎮 
 
 
 
@@ -23,10 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!--## Find me around the web 🌎:
-- <a href="https://michaelradu.cf">Personal Website</a> 💼
-- Posting articles on <a href="https://medium.com/@miihairadu">Medium</a> 📹 ✍️
-- Publishing games on <a href="https://michaelradu.itch.io/">Itch.io</a> 🏓
-I'm a **software engineer** focused on creating amazing experiences 🙌
 -->
