@@ -1,17 +1,12 @@
+# Hi there 👋, I'm [Michael](https://michaelradu.cf)
 
 ![image](https://github.com/michaelraduu/michaelraduu/blob/master/dino.gif)
 
-
-### Hi there 👋, I'm [Michael](https://michaelradu.cf)
-<br/>
-<a href="https://michaelradu.itch.io/">
-  <img alt="Michael | Itch.io" width="50px" align="left" src="https://github.com/michaelraduu/michaelraduu/blob/master/itch.png">
-</a>
-<a href="https://medium.com/@miihairadu">
-  <img alt="Michael | Medium" width="50px" align="left" src="https://github.com/michaelraduu/michaelraduu/blob/master/medium.png">
-</a>
-<br/>
-
+I'm a software engineer who is passionate about 
+## Find me around the web 🌎:
+- <a href="https://michaelradu.cf">Personal Website</a> 💼
+- Posting articles on <a href="https://medium.com/@miihairadu">Medium</a> 📹 ✍️
+- Publishing games on <a href="https://michaelradu.itch.io/">Itch.io</a> 🏓
 
 
 
