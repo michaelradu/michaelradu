@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Michael, a software engineer focused on creating amazing experiences 🙌
+I'm Michael, a **software engineer** focused on creating amazing experiences 🙌
 
 
 <!--
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 ## Find me around the web 🌎:
 - Posting articles on <a href="https://medium.com/@miihairadu">Medium</a> 📹 ✍️
-- Publishing games on <i class="fab fa-itch-io"><a href="https://michaelradu.itch.io/">Itch.io</a></i> 🏓
+- Publishing games on <a href="https://michaelradu.itch.io/">Itch.io</a> 🏓
 - <a href="https://michaelradu.cf">Personal Website</a> 💼
