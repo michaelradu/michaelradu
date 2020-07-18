@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm [Michael](https://michaelradu.cf)
 <br/>
-<a href="https://medium.com/@miihairadu"><img src="https://github.com/michaelraduu/michaelraduu/blob/master/itch.png"></a>
 <a href="https://medium.com/@miihairadu">
-  <img align="left" alt="Michael | Medium" width="25px" src="https://github.com/michaelraduu/michaelraduu/blob/master/medium.png">
+  <img alt="Michael | Medium" width="25px" align="left" src="https://github.com/michaelraduu/michaelraduu/blob/master/itch.png">
+</a>
+<a href="https://medium.com/@miihairadu">
+  <img alt="Michael | Medium" width="25px" align="left" src="https://github.com/michaelraduu/michaelraduu/blob/master/medium.png">
 </a>
 <br/>
 
