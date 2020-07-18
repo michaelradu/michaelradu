@@ -2,7 +2,7 @@
 
 ![image](https://github.com/michaelraduu/michaelraduu/blob/master/dino.gif)
 
-I'm a software engineer who is passionate about 
+I'm a software engineer who is passionate about exploring new technologies.
 ## Find me around the web 🌎:
 - <a href="https://michaelradu.cf">Personal Website</a> 💼
 - Posting articles on <a href="https://medium.com/@miihairadu">Medium</a> 📹 ✍️
