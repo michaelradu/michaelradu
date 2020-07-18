@@ -8,7 +8,7 @@
 </a>
 <br/>
 
-I'm a **software engineer** focused on creating amazing experiences 🙌 <br/>
+I'm a **software engineer** focused on creating amazing experiences 🙌<br />
 
 
 <!--
