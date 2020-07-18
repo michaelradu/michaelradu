@@ -2,6 +2,7 @@
 I'm a **software engineer** focused on creating amazing experiences 🙌
 <br/>
 <a href="https://medium.com/@miihairadu"><img src="https://github.com/michaelraduu/michaelraduu/blob/master/itch.png"></a>
+<a href="https://medium.com/@miihairadu"><img src="https://github.com/michaelraduu/michaelraduu/blob/master/medium.png"></a>
 
 <!--
 **michaelraduu/michaelraduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
