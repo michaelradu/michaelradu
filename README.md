@@ -1,8 +1,9 @@
-### Hi there 👋, I'm [Michael](https://michaelradu.cf)'
 
 ![image](https://github.com/michaelraduu/michaelraduu/blob/master/dino.gif)
 
 <br/>
+### Hi there 👋, I'm [Michael](https://michaelradu.cf)
+
 <a href="https://michaelradu.itch.io/">
   <img alt="Michael | Itch.io" width="50px" align="left" src="https://github.com/michaelraduu/michaelraduu/blob/master/itch.png">
 </a>
