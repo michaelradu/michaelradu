@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm <a href="https://michaelradu.cf">Michael</a>
 I'm a **software engineer** focused on creating amazing experiences 🙌
 <br/>
-<a href="https://medium.com/@miihairadu">![](https://github.com/michaelraduu/michaelraduu/blob/master/app-icon.png | width=100)</a>
+<a href="https://medium.com/@miihairadu">(https://github.com/michaelraduu/michaelraduu/blob/master/app-icon.png | width=100)</a>
 
 <!--
 **michaelraduu/michaelraduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
