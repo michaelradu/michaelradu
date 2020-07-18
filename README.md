@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm <a href="https://michaelradu.cf">Michael</a>
 I'm a **software engineer** focused on creating amazing experiences 🙌
-<br>
+<br/>
 <a href="https://medium.com/@miihairadu">Medium</a>
 
 <!--
