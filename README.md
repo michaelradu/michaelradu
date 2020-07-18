@@ -1,4 +1,7 @@
-### Hi there 👋, I'm [Michael](https://michaelradu.cf)
+### Hi there 👋, I'm [Michael](https://michaelradu.cf)'
+
+![image](https://github.com/michaelraduu/michaelraduu/blob/master/dino.gif)
+
 <br/>
 <a href="https://michaelradu.itch.io/">
   <img alt="Michael | Itch.io" width="50px" align="left" src="https://github.com/michaelraduu/michaelraduu/blob/master/itch.png">
@@ -8,7 +11,7 @@
 </a>
 <br/>
 
-I'm a **software engineer** focused on creating amazing experiences 🙌
+
 
 
 <!--
@@ -29,4 +32,5 @@ Here are some ideas to get you started:
 - <a href="https://michaelradu.cf">Personal Website</a> 💼
 - Posting articles on <a href="https://medium.com/@miihairadu">Medium</a> 📹 ✍️
 - Publishing games on <a href="https://michaelradu.itch.io/">Itch.io</a> 🏓
+I'm a **software engineer** focused on creating amazing experiences 🙌
 -->
