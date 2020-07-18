@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Michael, a **software engineer** focused on creating amazing experiences 🙌
+### Hi there 👋, I'm <a href="https://michaelradu.cf">Michael</a>
+I'm a **software engineer** focused on creating amazing experiences 🙌
 
 
 <!--
