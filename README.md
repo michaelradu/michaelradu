@@ -1,4 +1,4 @@
-### Hi there 👋, I'm []Michael(https://michaelradu.cf)
+### Hi there 👋, I'm [Michael](https://michaelradu.cf)
 <br/>
 <a href="https://medium.com/@miihairadu"><img src="https://github.com/michaelraduu/michaelraduu/blob/master/itch.png"></a>
 <a href="https://medium.com/@miihairadu"><img src="https://github.com/michaelraduu/michaelraduu/blob/master/medium.png"></a>
