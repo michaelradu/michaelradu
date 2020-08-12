@@ -4,7 +4,7 @@
 
 ### I'm a software engineer who is passionate about exploring new technologies.
 
-## Find me around the web 🌎:
+<!-- ## Find me around the web 🌎: -->
 - <a href="https://michaelradu.cf">Personal Website</a> 💼
 - Posting articles on <a href="https://medium.com/@miihairadu">Medium</a> 📹 ✍️
 - Publishing games on <a href="https://michaelradu.itch.io/">Itch.io</a> 🎮 
