@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Michael](https://michaelradu.cf)
 
-![image](https://github.com/michaelraduu/michaelraduu/blob/master/dino.gif)
+![image](https://github.com/michaelradu/michaelradu/blob/master/Github-test.png)
 
 I'm a software engineer who is passionate about exploring new technologies.
 ## Find me around the web 🌎:
