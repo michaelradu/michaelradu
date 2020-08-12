@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-### I'm a software engineer who is passionate about exploring new technologies.
+### I'm a self learning software engineer who is passionate about exploring new technologies.
 
 <!-- ## Find me around the web 🌎: -->
 - <a href="https://michaelradu.cf">Personal Website</a> 💼
