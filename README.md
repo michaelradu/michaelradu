@@ -1,8 +1,9 @@
 ![image](https://github.com/michaelradu/michaelradu/blob/master/Github-test.png)
 
-# Hi there 👋, I'm [Michael](https://michaelradu.cf)
+# Hi there 👋
 
-I'm a software engineer who is passionate about exploring new technologies.
+### I'm a software engineer who is passionate about exploring new technologies.
+
 ## Find me around the web 🌎:
 - <a href="https://michaelradu.cf">Personal Website</a> 💼
 - Posting articles on <a href="https://medium.com/@miihairadu">Medium</a> 📹 ✍️
