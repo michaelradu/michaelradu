@@ -37,6 +37,13 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Michael's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MichaelRadu&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://michaelradu.cf
 [profile]: https://github.com/michaelradu
 [itchio]: https://michaelradu.itch.io
