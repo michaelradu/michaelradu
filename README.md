@@ -12,7 +12,6 @@
 [<img align="left" alt="Michael Radu Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Michael Radu Medium | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />][medium]
 [<img align="left" alt="Micahel Radu Itch.io | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/itch-dot-io.svg" />][itchio]
-[<img align="left" alt="Micahel Radu GitHub | Follow me on GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" />][github]
 <br />
 
 ### Languages and Tools:
