@@ -3,7 +3,6 @@
 # Hi there 👋
 
 ### I'm a self learning software engineer who is passionate about exploring new technologies.
-[![GitHub Michael Radu](https://img.shields.io/github/followers/michaelradu?label=follow&style=social)](https://github.com/michaelradu)
 
 
 ### Connect with me:
