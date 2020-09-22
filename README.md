@@ -3,7 +3,7 @@
 # Hi there 👋
 
 ### I'm a self learning software engineer who is passionate about exploring new technologies.
-
+https://img.shields.io/github/followers/michaelradu?label=Follow&style=flat-square
 
 ### Connect with me:
 
