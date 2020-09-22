@@ -3,6 +3,7 @@
 # Hi there 👋
 
 ### I'm a self learning software engineer who is passionate about exploring new technologies.
+[![GitHub Michael Radu](https://img.shields.io/github/followers/michaelradu?label=follow&style=social)](https://github.com/michaelradu)
 
 
 ### Connect with me:
@@ -12,7 +13,7 @@
 [<img align="left" alt="Michael Radu Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Michael Radu Medium | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />][medium]
 [<img align="left" alt="Micahel Radu Itch.io | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/itch-dot-io.svg" />][itchio]
-
+[<img align="left" alt="Micahel Radu GitHub | Follow me on GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" />][github]
 <br />
 
 ### Languages and Tools:
@@ -74,3 +75,4 @@
 [medium]: https://medium.com/@miihairadu
 [youtube]: https://www.youtube.com/channel/UC_ORtG1zEV5BId-GEODAOsQ?sub_confirmation=1
 [twitter]: https://twitter.com/MichaelRaduu
+[github]: https://github.com/michaelradu
