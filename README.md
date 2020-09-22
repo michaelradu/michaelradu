@@ -1,8 +1,8 @@
 ![image](https://github.com/michaelradu/michaelradu/blob/master/github-test-v2.png)
 
-# Hi there 👋
+# Hi there I'm Michael 👋
 
-### I'm a self learning software engineer who is passionate about exploring new technologies.
+### A self learning software engineer who is passionate about exploring new technologies.
 
 > If you like me or my work:
 
