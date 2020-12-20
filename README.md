@@ -2,7 +2,7 @@
 
 # Hi there I'm Michael 👋
 
-### A self learning software engineer who is passionate about exploring new technologies.
+### Self learning Developer and Designer who is passionate about exploring new technologies.
 
 > If you like me or my work:
 
