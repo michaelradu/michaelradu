@@ -1,4 +1,4 @@
-![image](https://github.com/michaelradu/michaelradu/blob/master/github-test-v2.png)
+![image](https://github.com/michaelradu/michaelradu/blob/master/github-v3.png)
 
 # Hi there I'm Michael 👋
 
