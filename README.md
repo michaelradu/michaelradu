@@ -35,6 +35,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
