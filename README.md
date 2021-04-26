@@ -5,6 +5,7 @@
 <h1> Michael Radu </h1>
 <b>Self learning Developer and Designer who is passionate about exploring new technologies.</b>
 
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23ec4c4c?style=for-the-badge&logo=Creative%20Commons&logoColor=ffffff)][website]
 [![Itch.io](https://img.shields.io/badge/-Itch.io-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=ffffff)][itchio]
 [![GitHub](https://img.shields.io/github/followers/michaelradu?label=Follow%20Me&style=for-the-badge)](https://github.com/michaelradu)
