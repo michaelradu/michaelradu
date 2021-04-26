@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://michaelradu.cf/">Michael Radu</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a href="https://michaelradu.cf/">Michael Radu</a>
 </p>
 
 ### Self learning Developer and Designer who is passionate about exploring new technologies.
@@ -19,7 +19,7 @@
 
 
 
-<br />
+
 
 
 
@@ -53,9 +53,8 @@
 
 </div>
 
-
+[logo]: https://github.com/michaelradu/michaelradu/blob/michaelradu-patch-1/logo.png
 [website]: https://michaelradu.cf
 [profile]: https://github.com/michaelradu
 [itchio]: https://michaelradu.itch.io
 [github]: https://github.com/michaelradu
-[logo]: https://github.com/michaelradu/michaelradu/blob/michaelradu-patch-1/logo.png
