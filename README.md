@@ -32,6 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 
