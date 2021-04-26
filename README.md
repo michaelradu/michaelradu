@@ -6,7 +6,9 @@
 <b>Self learning Developer and Designer who is passionate about exploring new technologies.</b>
 
 [<img alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alt="Itch.io | Itch.io" width="22px" src="https://img.shields.io/badge/-Itch.io-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=ffffff" />][itchio]
+
+[![Itch.io](https://img.shields.io/badge/-Itch.io-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=ffffff)][itchio]
+
 [![GitHub Michael Radu](https://img.shields.io/github/followers/michaelradu?label=Follow%20Me&style=for-the-badge)](https://github.com/michaelradu)
 
 
