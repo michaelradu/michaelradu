@@ -3,7 +3,7 @@
 [![][logo]][website]  
  
 ## Michael Radu
-<p>Self learning Developer and Designer who is passionate about exploring new technologies.</p>
+<b>Self learning Developer and Designer who is passionate about exploring new technologies.</b>
 
 [<img alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="Itch.io | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/itch-dot-io.svg" />][itchio]
