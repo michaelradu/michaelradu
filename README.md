@@ -58,4 +58,4 @@
 [profile]: https://github.com/michaelradu
 [itchio]: https://michaelradu.itch.io
 [github]: https://github.com/michaelradu
-[logo]: https://github.com/michaelradu/michaelradu/blob/michaelradu-patch-1/logoM.svg
+[logo]: https://github.com/michaelradu/michaelradu/blob/master/logo.png
