@@ -51,9 +51,9 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-%2357A143?style=for-the-badge&logo=Neovim&logoColor=ffffff)
 ![GNU/Emacs](https://img.shields.io/badge/-GNU%20Emacs-%237F5AB6?style=for-the-badge&logo=GNU-EMACS&logoColor=ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
+
 ![Vercel](https://img.shields.io/badge/-Vercel-%231c1c1c?style=for-the-badge&logo=vercel&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-%23430098?style=for-the-badge&logo=Heroku&logoColor=ffffff)
-
 ![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 ![RaspberryPI](https://img.shields.io/badge/-Raspberry%20PI-%23A22846?style=for-the-badge&logo=Raspberry-PI&logoColor=ffffff)
 ![GNU](https://img.shields.io/badge/-GNU-%23A42E2B?style=for-the-badge&logo=GNU&logoColor=ffffff)
