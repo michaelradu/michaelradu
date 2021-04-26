@@ -5,9 +5,7 @@
 <h1> Michael Radu </h1>
 <b>Self learning Developer and Designer who is passionate about exploring new technologies.</b>
 
-[<img alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[![Portfolio]()][website]
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23ec4c4c?style=for-the-badge&logo=Creative%20Commons&logoColor=ffffff)][website]
 [![Itch.io](https://img.shields.io/badge/-Itch.io-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=ffffff)][itchio]
 [![GitHub](https://img.shields.io/github/followers/michaelradu?label=Follow%20Me&style=for-the-badge)](https://github.com/michaelradu)
 
@@ -24,7 +22,7 @@
 
 
 
-## Tech I like
+## Tech I like & use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
@@ -62,7 +60,7 @@
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23AB2B28?style=for-the-badge&logo=FreeBSD&logoColor=ffffff)
 
 
-
+...and more!
 
 
 
