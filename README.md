@@ -41,7 +41,7 @@
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)
+
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
@@ -52,6 +52,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%231c1c1c?style=for-the-badge&logo=vercel&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-%23430098?style=for-the-badge&logo=Heroku&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 
 ![Linux](https://img.shields.io/badge/-Linux-%2300599C?style=for-the-badge&logo=Linux&logoColor=ffffff)
 
