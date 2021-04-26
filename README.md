@@ -34,9 +34,9 @@
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+
 ![Gatsby](https://img.shields.io/badge/-Gatsby-%23663399?style=for-the-badge&logo=Gatsby&logoColor=ffffff)
 ![Csharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css)
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=Java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
@@ -45,16 +45,16 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![Vim](https://img.shields.io/badge/-Vim-%23019733?style=for-the-badge&logo=Vim&logoColor=ffffff)
 
+![Vim](https://img.shields.io/badge/-Vim-%23019733?style=for-the-badge&logo=Vim&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Neovim](https://img.shields.io/badge/-Neovim-%2357A143?style=for-the-badge&logo=Neovim&logoColor=ffffff)
 ![GNU/Emacs](https://img.shields.io/badge/-GNU%20Emacs-%237F5AB6?style=for-the-badge&logo=GNU-EMACS&logoColor=ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%231c1c1c?style=for-the-badge&logo=vercel&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-%23430098?style=for-the-badge&logo=Heroku&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 
+![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 ![RaspberryPI](https://img.shields.io/badge/-Raspberry%20PI-%23A22846?style=for-the-badge&logo=Raspberry-PI&logoColor=ffffff)
 ![GNU](https://img.shields.io/badge/-GNU-%23A42E2B?style=for-the-badge&logo=GNU&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-%2300599C?style=for-the-badge&logo=Linux&logoColor=ffffff)
