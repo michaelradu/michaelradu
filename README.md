@@ -24,7 +24,7 @@
 
 ## Tech I like
 
-![Csharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
@@ -36,7 +36,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-%23663399?style=for-the-badge&logo=Gatsby&logoColor=ffffff)
 
-
+![Csharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
