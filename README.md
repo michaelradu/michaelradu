@@ -2,7 +2,7 @@
 
 [![][logo]][website]  
  
-## Michael Radu
+<h1> Michael Radu </h1>
 <b>Self learning Developer and Designer who is passionate about exploring new technologies.</b>
 
 [<img alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
