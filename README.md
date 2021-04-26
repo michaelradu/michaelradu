@@ -42,6 +42,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%231c1c1c?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
+![Linux](https://img.shields.io/badge/-Linux-%2300599C?style=for-the-badge&logo=Linux&logoColor=ffffff)
 
 
 
