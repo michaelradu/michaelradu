@@ -7,10 +7,9 @@
 <p align="center">
   <a href="https://michaelradu.cf/">Michael Radu</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Itch.io | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/itch-dot-io.svg" />][itchio]
+[<img alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img alt="Itch.io | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/itch-dot-io.svg" />][itchio]
 
-</div>
 <br />
 
 ### Self learning Developer and Designer who is passionate about exploring new technologies.
@@ -47,12 +46,12 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Github Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=MichaelRadu&show_icons=true&theme=tokyonight" />
+## Stats
+<img alt="Github Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=MichaelRadu&show_icons=true&theme=tokyonight" />
 
-</details>
+
+</div>
 
 
 [website]: https://michaelradu.cf
