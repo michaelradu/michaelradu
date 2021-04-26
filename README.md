@@ -47,6 +47,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Vim](https://img.shields.io/badge/-Vim-%23019733?style=for-the-badge&logo=Vim&logoColor=ffffff)
 ![Neovim](https://img.shields.io/badge/-Neovim-%2357A143?style=for-the-badge&logo=Neovim&logoColor=ffffff)
+![GNU/Emacs](https://img.shields.io/badge/-GNU%20Emacs-%237F5AB6?style=for-the-badge&logo=GNU-EMACS&logoColor=ffffff)
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%231c1c1c?style=for-the-badge&logo=vercel&logoColor=ffffff)
