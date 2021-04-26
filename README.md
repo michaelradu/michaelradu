@@ -2,12 +2,7 @@
 
 [![][logo]][website]  
  
-
-
-<p align="center">
-
-  ## Michael Radu
-</p>
+## Michael Radu
 
 ### Self learning Developer and Designer who is passionate about exploring new technologies.
 
