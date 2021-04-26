@@ -54,6 +54,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 
 ![Linux](https://img.shields.io/badge/-Linux-%2300599C?style=for-the-badge&logo=Linux&logoColor=ffffff)
+![RaspberryPI](https://img.shields.io/badge/-Raspberry%20PI-%23A22846?style=for-the-badge&logo=Raspberry-PI&logoColor=ffffff)
 
 
 
