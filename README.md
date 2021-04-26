@@ -34,9 +34,9 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-%23663399?style=for-the-badge&logo=Gatsby&logoColor=ffffff)
+![Csharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css)
-![Csharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=Java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=ffffff)
