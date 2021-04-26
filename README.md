@@ -8,15 +8,18 @@
   <a href="https://michaelradu.cf/">Michael Radu</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
 
+### Self learning Developer and Designer who is passionate about exploring new technologies.
+
 [<img alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="Itch.io | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/itch-dot-io.svg" />][itchio]
 [![GitHub Michael Radu](https://img.shields.io/github/followers/michaelradu?label=Follow%20Me&style=flat-square)](https://github.com/michaelradu)
 
 <br />
 
-### Self learning Developer and Designer who is passionate about exploring new technologies.
 
 
+
+<br />
 
 
 
@@ -42,9 +45,6 @@
 
 
 <br />
-<br />
-
----
 
 
 ## Stats
