@@ -44,8 +44,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+
 ![Vim](https://img.shields.io/badge/-Vim-%23019733?style=for-the-badge&logo=Vim&logoColor=ffffff)
 ![Neovim](https://img.shields.io/badge/-Neovim-%2357A143?style=for-the-badge&logo=Neovim&logoColor=ffffff)
 ![GNU/Emacs](https://img.shields.io/badge/-GNU%20Emacs-%237F5AB6?style=for-the-badge&logo=GNU-EMACS&logoColor=ffffff)
