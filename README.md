@@ -1,9 +1,11 @@
-![][logo] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <div align="center">
 
+[![][logo]][website]  
+ 
+
+
 <p align="center">
-  <a href="https://michaelradu.cf/">Michael Radu</a>
+  <a href="https://michaelradu.cf/">Michael Radu</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Itch.io | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/itch-dot-io.svg" />][itchio]
