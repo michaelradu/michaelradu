@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a style="color: #ec4c4c;" href="https://michaelradu.cf/">Michael Radu</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://michaelradu.cf/">Michael Radu</a>
 </p>
 
 ### Self learning Developer and Designer who is passionate about exploring new technologies.
