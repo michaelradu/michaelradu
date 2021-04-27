@@ -56,7 +56,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-%23430098?style=for-the-badge&logo=Heroku&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 ![RaspberryPI](https://img.shields.io/badge/-Raspberry%20PI-%23A22846?style=for-the-badge&logo=Raspberry-PI&logoColor=ffffff)
-![GNU](https://img.shields.io/badge/-GNU-%23A42E2B?style=for-the-badge&logo=GNU&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-%2300599C?style=for-the-badge&logo=Linux&logoColor=ffffff)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23AB2B28?style=for-the-badge&logo=FreeBSD&logoColor=ffffff)
 
