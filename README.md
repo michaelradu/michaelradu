@@ -63,7 +63,7 @@
             <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" alt="Raspberry PI" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino" width="50" />&nbsp;&nbsp;&nbsp
         </p>
-        <p>...and more!</p>
+        <p align="center">...and more!</p>
     </div>
     <br />
     <div>
