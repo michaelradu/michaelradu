@@ -48,8 +48,6 @@
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48"
                 alt="Java" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="48"
-                alt="GNU/Linux" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
@@ -57,6 +55,8 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fexplore%2F26674e638508ac4a4e113ee32d6755ebfa000569%2Ftopics%2Fneovim%2Fneovim.png&f=1&nofb=1" alt="Neovim" width="50" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="48"
+                alt="GNU/Linux" />&nbsp;&nbsp;&nbsp
             <img src="https://brandslogos.com/wp-content/uploads/images/freebsd-logo-vector.svg" alt="FreeBSD"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" width="50" />&nbsp;&nbsp;&nbsp
