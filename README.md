@@ -42,8 +42,6 @@
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="48"
                 alt="Dart" />&nbsp;&nbsp;&nbsp
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FG%2Fgatsby-logo-1A245AD37F-seeklogo.com.png&f=1&nofb=1"
-                alt="Gatsby" width="55" />
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
                 alt="Node.js" width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
