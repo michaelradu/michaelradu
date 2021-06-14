@@ -56,8 +56,8 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" alt="Doom Emacs" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
                 width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="FreeBSD" width="50" />&nbsp;&nbsp;&nbsp
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fexplore%2F26674e638508ac4a4e113ee32d6755ebfa000569%2Ftopics%2Fneovim%2Fneovim.png&f=1&nofb=1" alt="Neovim"
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fexplore%2F26674e638508ac4a4e113ee32d6755ebfa000569%2Ftopics%2Fneovim%2Fneovim.png&f=1&nofb=1" alt="Neovim" width="50" />&nbsp;&nbsp;&nbsp
+            <img src="https://brandslogos.com/wp-content/uploads/images/freebsd-logo-vector.svg" alt="FreeBSD"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" alt="Raspberry PI" width="50" />&nbsp;&nbsp;&nbsp
