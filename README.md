@@ -3,7 +3,7 @@
 ****                               ****       -------                    
 *******                         *******       Uptime: 18 years                    
 *********,                   **********       Programming Languages: [🇨, 🇨➕➕, 🐍, 🦀, 🐹, "Java", "ASM", "TypeScript", "Flutter"]
-  **********.             ,**********         Passions: [Machine Learning, Low level/embedded IoT programming, full stack web apps]                    
+  **********.             ,**********         Passions: [Machine Learning, Cybersecurity, Low level IoT programming, full stack web apps]                    
      **********        .**********            OS: 🐧 Arch Linux + Nix                    
         **********   **********               DE: Gnome                    
 **,        *****************        ***       WM: dwm/hyprland                    
