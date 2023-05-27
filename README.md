@@ -21,10 +21,7 @@ Last login: January 1, 1970, 00:00:00 UTC on console
                 *******                                    
                    *                                       
 ```
-
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-    Self-learning software & electrical engineer</b> 🚀 from <b>🇷🇴</b></h1>
-    <a href="https://mihairadu.cf" target="_blank"><img alt="Website"
+<a href="https://mihairadu.cf" target="_blank"><img alt="Website"
                 src="https://img.shields.io/badge/website-red?style=for-the-badge&logo=astro&logoColor=white" /></a>
     <a href="https://twitter.com/MichaelRaduu" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
