@@ -1,3 +1,7 @@
+Last login: January 1, 1970, 00:00:00 UTC on console
+
+λ ~/ cat README
+
 ```console
 *                                     *       @michaelradu                    
 ****                               ****       -------                    
