@@ -31,7 +31,7 @@ Last login: January 1, 1970, 00:00:00 UTC on console
                 src="https://img.shields.io/badge/-Itch.io-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=ffffff"></a>
     <a href="https://github.com/michaelradu"><img alt="Follow Me"
                 src="https://img.shields.io/github/followers/michaelradu?label=Follow%20Me&style=for-the-badge"></a>
-    <a href="[https://github.com/michaelradu](https://github.com/michaelradu/dot)"><img alt="Dotfiles"
+    <a href="https://github.com/michaelradu/dot"><img alt="Dotfiles"
                 src="https://img.shields.io/badge/dotfiles-blue?style=for-the-badge&logo=linux&logoColor=%23ffffff"></a>
     <div>
         <h2>⏱ My Stats
