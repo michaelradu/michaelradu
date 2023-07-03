@@ -6,13 +6,13 @@ Last login: January 1, 1970, 00:00:00 UTC on console
 *                                     *       @michaelradu                    
 ****                               ****       -------                    
 *******                         *******       Uptime: 18 years                    
-*********,                   **********       Programming Languages: [🇨, 🇨➕➕, 🐍, 🦀, 🐹, "Java", "ASM", "TypeScript", "Flutter"]
+*********,                   **********       Programming Languages: [🇨, 🇨➕➕, 🐍, 🦀, 🐹, "Java", "ASM", "TypeScript", "Flutter", "Arduino"]
   **********.             ,**********         Passions: [Machine Learning, Cybersecurity, Low level IoT programming, full stack web apps]                    
-     **********        .**********            OS: 🐧 Arch Linux + Nix                    
-        **********   **********               DE: Gnome                    
-**,        *****************        ***       WM: dwm/hyprland                    
+     **********        .**********            OS: 🐧 Debian                    
+        **********   **********               DE: Mate                    
+**,        *****************        ***       WM: i3                    
 *****.        ***********        ,*****       Shell: Zsh                   
-********         *****        .********       Editor: LazyVim/VSCode
+********         *****        .********       Editor: Neovim
 ***********                 ***********                    
 **************           **************       ⬛🟥🟩🟨🟦🟪⬜       
 ******,**********     *****************       ⬛🟥🟩🟨🟦🟪⬜             
@@ -21,7 +21,7 @@ Last login: January 1, 1970, 00:00:00 UTC on console
                 *******                                    
                    *                                       
 ```
-<a href="https://mihairadu.cf" target="_blank"><img alt="Website"
+<a href="https://michaelradu.substack.com" target="_blank"><img alt="Website"
                 src="https://img.shields.io/badge/website-red?style=for-the-badge&logo=astro&logoColor=white" /></a>
     <a href="https://twitter.com/MichaelRaduu" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
