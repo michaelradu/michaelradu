@@ -6,7 +6,7 @@ Last login: January 1, 1970, 00:00:00 UTC on console
 *                                     *       @michaelradu                    
 ****                               ****       -------                    
 *******                         *******       Uptime: 18 years                    
-*********,                   **********       Programming Languages: [🇨, 🇨➕➕, 🐍, 🦀, 🐹, "Java", "ASM", "TypeScript", "Flutter", "Arduino"]
+*********,                   **********       Programming Languages: [🇨, 🇨➕➕, c#, 🐍, 🦀, 🐹, "Java", "ASM", "TypeScript", "Flutter", "Arduino"]
   **********.             ,**********         Passions: [Machine Learning, Cybersecurity, Low level IoT programming, full stack web apps]                    
      **********        .**********            OS: 🐧 Debian                    
         **********   **********               DE: Mate                    
