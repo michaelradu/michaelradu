@@ -6,10 +6,10 @@ Last login: January 1, 1970, 00:00:00 UTC on console
 *                                     *       @michaelradu                    
 ****                               ****       -------                    
 *******                         *******       Uptime: 18 years                    
-*********,                   **********       Programming Languages: [🇨, 🇨➕➕, c#, 🐍, 🦀, 🐹, "Java", "ASM", "TypeScript", "Flutter", "Arduino"]
+*********,                   **********       Programming Languages: [🇨, 🇨➕➕, c#, 🐍, 🦀, 🐹, "Java", "ASM x86", "TypeScript", "Flutter", "Arduino"]
   **********.             ,**********         Passions: [Machine Learning, Cybersecurity, Low level IoT programming, full stack web apps]                    
-     **********        .**********            OS: 🐧 Debian                    
-        **********   **********               DE: Mate                    
+     **********        .**********            OS: W10 + 🐧 Debian                    
+        **********   **********               DE: Gnome                    
 **,        *****************        ***       WM: i3                    
 *****.        ***********        ,*****       Shell: Zsh                   
 ********         *****        .********       Editor: Neovim
@@ -21,10 +21,12 @@ Last login: January 1, 1970, 00:00:00 UTC on console
                 *******                                    
                    *                                       
 ```
-<a href="https://michaelradu.substack.com" target="_blank"><img alt="Website"
+<a href="https://mihairadu.cf" target="_blank"><img alt="Website"
                 src="https://img.shields.io/badge/website-red?style=for-the-badge&logo=astro&logoColor=white" /></a>
+<a href="https://michaelradu.substack.com" target="_blank"><img alt="Blog"
+                src="https://img.shields.io/badge/blog-blue?style=for-the-badge&logo=rss&logoColor=white" /></a>
     <a href="https://twitter.com/MichaelRaduu" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+                src="https://img.shields.io/badge/twitter-black?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="mailto:miihairadu@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
     <a href="https://michaelradu.itch.io"><img alt="Itch.io"
