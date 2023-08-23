@@ -8,8 +8,8 @@ Last login: January 1, 1970, 00:00:00 UTC on console
 *******                         *******       Uptime: 18 years                    
 *********,                   **********       Programming Languages: [🇨, 🇨➕➕, c#, 🐍, 🦀, 🐹, "Java", "ASM x86", "TypeScript", "Flutter", "Arduino"]
   **********.             ,**********         Passions: [Machine Learning, Cybersecurity, Low level IoT programming, full stack web apps]                    
-     **********        .**********            OS: W10 + 🐧 Debian                    
-        **********   **********               DE: Gnome                    
+     **********        .**********            OS: W10 + 🐧 Mint                    
+        **********   **********               DE: Cinnamon                    
 **,        *****************        ***       WM: i3                    
 *****.        ***********        ,*****       Shell: Zsh                   
 ********         *****        .********       Editor: Neovim
