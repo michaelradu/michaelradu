@@ -42,7 +42,7 @@ Last login: January 1, 1970, 00:00:00 UTC on console
     <div>
         <details>
             <summary>
-                :octocat: Github Stats
+                :octocat: Github Stats (Broken)
             </summary>
             <br />
             <p align="center">
