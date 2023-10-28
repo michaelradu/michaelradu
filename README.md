@@ -6,11 +6,11 @@ Last login: January 1, 1970, 00:00:00 UTC on console
 *                                     *       @michaelradu                    
 ****                               ****       -------                    
 *******                         *******       Uptime: 18 years                    
-*********,                   **********       Programming Languages: [🇨, 🇨➕➕, c#, 🐍, 🦀, 🐹, "Java", "ASM x86", "TypeScript", "Flutter", "Arduino"]
-  **********.             ,**********         Passions: [Machine Learning, Cybersecurity, Low level IoT programming, full stack web apps]                    
-     **********        .**********            OS: W10 + 🐧 Arch                    
+*********,                   **********       Programming Languages: [🇨, 🇨➕➕, c#, 🐍, 🦀, 🐹, "Java", "Kotlin", "ASM x86", "TypeScript", "Flutter", "React Native", "Arduino"]
+  **********.             ,**********         Passions: [Machine Learning, Cybersecurity, Low level IoT + Systems, full stack web + mobile apps]                    
+     **********        .**********            OS: W10 + 🐧 Arch/Gentoo                    
         **********   **********               DE: NaN                    
-**,        *****************        ***       WM: Sway                    
+**,        *****************        ***       WM: Dwm                    
 *****.        ***********        ,*****       Shell: Zsh                   
 ********         *****        .********       Editor: DOOM Emacs/Neovim
 ***********                 ***********                    
@@ -20,6 +20,23 @@ Last login: January 1, 1970, 00:00:00 UTC on console
     **,      *************      ***                        
                 *******                                    
                    *                                       
+
+------
+
+  _________________________________________________
+ /                                                 \
+| Legend says devs spend more time on readmes than  |
+| writing code.                                     |
+ \                                                 /
+  =================================================
+                                                 \
+                                                  \
+                                                    ^__^
+                                                    (oo)\_______
+                                                    (__)\       )\/\
+                                                        ||----w |
+                                                        ||     ||
+
 ```
 <a href="https://mihairadu.cf" target="_blank"><img alt="Website"
                 src="https://img.shields.io/badge/website-red?style=for-the-badge&logo=astro&logoColor=white" /></a>
