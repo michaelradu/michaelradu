@@ -5,14 +5,14 @@ Last login: January 1, 1970, 00:00:00 UTC on console
 
 *                                     *       @michaelradu                    
 ****                               ****       -------                    
-*******                         *******       Uptime: 18 years                    
+*******                         *******       Uptime: 19 years                    
 *********,                   **********       Programming Languages: [🇨, 🇨➕➕, c#, 🐍, 🦀, 🐹, "Java", "Kotlin", "ASM x86", "TypeScript", "Flutter", "React Native", "Arduino"]
   **********.             ,**********         Passions: [Machine Learning, Cybersecurity, Low level IoT + Systems, full stack web + mobile apps]                    
-     **********        .**********            OS: W10 + 🐧 Arch/Gentoo                    
+     **********        .**********            OS: 🐧 Debian + W11                    
         **********   **********               DE: NaN                    
-**,        *****************        ***       WM: Dwm                    
-*****.        ***********        ,*****       Shell: Zsh                   
-********         *****        .********       Editor: DOOM Emacs/Neovim
+**,        *****************        ***       WM: i3                    
+*****.        ***********        ,*****       Shell: Bash                   
+********         *****        .********       Editor: Neovim
 ***********                 ***********                    
 **************           **************       ⬛🟥🟩🟨🟦🟪⬜       
 ******,**********     *****************       ⬛🟥🟩🟨🟦🟪⬜             
