@@ -1,75 +1,18 @@
-```console
-Last login: January 1, 1970, 00:00:00 UTC on console
+# Hey, I'm Michael 👋
+![](robot.gif)
 
-λ ~/ cat README
+[![](https://visitcount.itsvg.in/api?id=michaelradu&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
+[![](https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat&logo=substack&logoColor=FF6719)](https://michaelradu.substack.com/)
+[![](https://img.shields.io/badge/website-red?style=flat&logo=astro&logoColor=white)](https://michaelradu.netlify.app/)
+[![](https://img.shields.io/github/followers/michaelradu?label=Follow%20Me&style=flat)](https://github.com/michaelradu)
 
-*                                     *       @michaelradu                    
-****                               ****       -------                    
-*******                         *******       Uptime: 19 years                    
-*********,                   **********       Programming Languages: [🇨, 🇨➕➕, c#, 🐍, 🦀, 🐹, "Java", "Kotlin", "ASM x86", "TypeScript", "Flutter", "React Native", "Arduino"]
-  **********.             ,**********         Passions: [Machine Learning, Cybersecurity, Low level IoT + Systems, full stack web + mobile apps]                    
-     **********        .**********            OS: 🐧 Debian + W11                    
-        **********   **********               DE: NaN                    
-**,        *****************        ***       WM: i3                    
-*****.        ***********        ,*****       Shell: Bash                   
-********         *****        .********       Editor: Neovim
-***********                 ***********                    
-**************           **************       ⬛🟥🟩🟨🟦🟪⬜       
-******,**********     *****************       ⬛🟥🟩🟨🟦🟪⬜             
- *****,   *******************   *****,                     
-    **,      *************      ***                        
-                *******                                    
-                   *                                       
+# 🐼 About Me
+- 🔭 I’m just a super curious guy who likes to build things.
+- 🌱 My ikigai ("reason for being") is living to create and creating to live.
+- 🗺️ I love language learning: 🇷🇴, 🇬🇧, 🇫🇷, 🇩🇪
 
-------
-
-  _________________________________________________
- /                                                 \
-| Legend says devs spend more time on readmes than  |
-| writing code.                                     |
- \                                                 /
-  =================================================
-                                                 \
-                                                  \
-                                                    ^__^
-                                                    (oo)\_______
-                                                    (__)\       )\/\
-                                                        ||----w |
-                                                        ||     ||
-
-```
-<a href="https://mihairadu.cf" target="_blank"><img alt="Website"
-                src="https://img.shields.io/badge/website-red?style=for-the-badge&logo=astro&logoColor=white" /></a>
-<a href="https://michaelradu.substack.com" target="_blank"><img alt="Blog"
-                src="https://img.shields.io/badge/blog-blue?style=for-the-badge&logo=rss&logoColor=white" /></a>
-    <a href="https://twitter.com/MichaelRaduu" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/twitter-black?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="mailto:miihairadu@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-    <a href="https://michaelradu.itch.io"><img alt="Itch.io"
-                src="https://img.shields.io/badge/-Itch.io-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=ffffff"></a>
-    <a href="https://github.com/michaelradu"><img alt="Follow Me"
-                src="https://img.shields.io/github/followers/michaelradu?label=Follow%20Me&style=for-the-badge"></a>
-    <a href="https://github.com/michaelradu/dot"><img alt="Dotfiles"
-                src="https://img.shields.io/badge/dotfiles-blue?style=for-the-badge&logo=linux&logoColor=%23ffffff"></a>
-    <div>
-        <h2>⏱ My Stats
-        </h2>
-    </div>
-    <div>
-        <details>
-            <summary>
-                :octocat: Github Stats (Broken)
-            </summary>
-            <br />
-            <p align="center">
-                <img height="160" alt="Michael's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=michaelradu&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-                <img alt="Michael's Github Stats" height="160"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelradu&hide=assembly&layout=compact&theme=dark" />
-            </p>
-        </details>
-    </div>
-</div>
-<hr />
-</br>
+# ⚙ Knowledge
+- λ Programming_Languages = [🇨, 🇨➕➕, 🐍, 🦀, 🐹, "Java", "ASM x86", "TypeScript", "Flutter", "Arduino"m "C#", Bash]
+- λ Frameworks = [Tensorflow, Pandas, Scikit-learn, Numpy, Nextjs, React Native, Spring Boot, Flask, Matplotlib, ]
+- λ Technologies = [🐧 GNU/Linux, Docker, MySQL/MariaDB, QEMU/KVM, 🐡 OpenBSD, Ghidra, Cisco IOS, MongoDB, Unity, Figma, Adobe XD, Photoshop, Illustrator, Neovim]
+- λ Methodologies = ["Computational Analysis of Physical Phenomena", "Deep Convolutional Neural Networks", "Wireless Networks Penetration Testing & PCAP Analysis", "XSS Identification & Exploitation" "Data Oriented Programming", "Object Oriented Programming"]
