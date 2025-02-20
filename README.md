@@ -12,7 +12,7 @@
 - 🗺️ I love language learning: 🇷🇴, 🇬🇧, 🇫🇷, 🇩🇪
 
 # ⚙ Knowledge
-- λ Programming_Languages = [🇨, 🇨➕➕, 🐍, 🦀, 🐹, "Java", "ASM x86", "TypeScript", "Flutter", "Arduino"m "C#", Bash]
-- λ Frameworks = [Tensorflow, Pandas, Scikit-learn, Numpy, Nextjs, React Native, Spring Boot, Flask, Matplotlib, ]
+- λ Programming_Languages = [🇨, 🇨➕➕, 🐍, 🦀, 🐹, "Java", "ASM x86", "TypeScript", "Flutter", "Arduino", "C#", Bash]
+- λ Frameworks = [Tensorflow, Pandas, Scikit-learn, Numpy, Nextjs, React Native, Spring Boot, Flask, Matplotlib]
 - λ Technologies = [🐧 GNU/Linux, Docker, MySQL/MariaDB, QEMU/KVM, 🐡 OpenBSD, Ghidra, Cisco IOS, MongoDB, Unity, Figma, Adobe XD, Photoshop, Illustrator, Neovim]
 - λ Methodologies = ["Computational Analysis of Physical Phenomena", "Deep Convolutional Neural Networks", "Wireless Networks Penetration Testing & PCAP Analysis", "XSS Identification & Exploitation" "Data Oriented Programming", "Object Oriented Programming"]
